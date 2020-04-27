@@ -4,6 +4,8 @@ This is the tracking repository for James' Office Hours stream.
 
 Check out the [stream on Youtube](https://www.youtube.com/channel/UCb48C4qqcXQpRugPbdwigZQ)!
 
+I also usually hang out in the [Rust Embedded Matrix Chat](https://matrix.to/#/#rust-embedded:matrix.org), feel free to comment there or in the YouTube chat for each stream (I'm @jamesmunns:matrix.org on Matrix).
+
 ## Schedule
 
 Right now I'm planning on streaming a couple days a week. I'll update this as I figure out what the cadence should be.
